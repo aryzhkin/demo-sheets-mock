@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "data": [
     {
       "id": 1,
-      "title": "hello"
+      "result": "My first result"
+    },
+    {
+      "id": 2,
+      "result": "My second result"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
